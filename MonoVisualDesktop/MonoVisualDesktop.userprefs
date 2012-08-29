@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoVisualDesktop/README.txt">
+    <Files>
+      <File FileName="MonoVisualDesktop/Main.cs" Line="2" Column="15" />
+      <File FileName="MonoVisualDesktop/MainForm.cs" Line="43" Column="72" />
+      <File FileName="MonoVisualDesktop/README.txt" Line="17" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
